@@ -1,0 +1,14 @@
+/home/ukasz/Passenger/Passenger.Tests/bin/Debug/netstandard2.0/Passenger.Tests.deps.json
+/home/ukasz/Passenger/Passenger.Tests/bin/Debug/netstandard2.0/Passenger.Tests.dll
+/home/ukasz/Passenger/Passenger.Tests/bin/Debug/netstandard2.0/Passenger.Tests.pdb
+/home/ukasz/Passenger/Passenger.Tests/bin/Debug/netstandard2.0/Passenger.Core.dll
+/home/ukasz/Passenger/Passenger.Tests/bin/Debug/netstandard2.0/Passenger.Infrastructure.dll
+/home/ukasz/Passenger/Passenger.Tests/bin/Debug/netstandard2.0/Passenger.Infrastructure.pdb
+/home/ukasz/Passenger/Passenger.Tests/bin/Debug/netstandard2.0/Passenger.Core.pdb
+/home/ukasz/Passenger/Passenger.Tests/obj/Debug/netstandard2.0/Passenger.Tests.csprojAssemblyReference.cache
+/home/ukasz/Passenger/Passenger.Tests/obj/Debug/netstandard2.0/Passenger.Tests.csproj.CoreCompileInputs.cache
+/home/ukasz/Passenger/Passenger.Tests/obj/Debug/netstandard2.0/Passenger.Tests.AssemblyInfoInputs.cache
+/home/ukasz/Passenger/Passenger.Tests/obj/Debug/netstandard2.0/Passenger.Tests.AssemblyInfo.cs
+/home/ukasz/Passenger/Passenger.Tests/obj/Debug/netstandard2.0/Passenger.Tests.csproj.CopyComplete
+/home/ukasz/Passenger/Passenger.Tests/obj/Debug/netstandard2.0/Passenger.Tests.dll
+/home/ukasz/Passenger/Passenger.Tests/obj/Debug/netstandard2.0/Passenger.Tests.pdb

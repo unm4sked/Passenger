@@ -4333,6 +4333,29 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XPath.XDocument.dll": {}
         }
+      },
+      "Passenger.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/Passenger.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Passenger.Core.dll": {}
+        }
+      },
+      "Passenger.Infrastructure/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "Passenger.Core": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Passenger.Infrastructure.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Passenger.Infrastructure.dll": {}
+        }
       }
     }
   },
@@ -11491,12 +11514,23 @@
         "system.xml.xpath.xdocument.4.3.0.nupkg.sha512",
         "system.xml.xpath.xdocument.nuspec"
       ]
+    },
+    "Passenger.Core/1.0.0": {
+      "type": "project",
+      "path": "../Passenger.Core/Passenger.Core.csproj",
+      "msbuildProject": "../Passenger.Core/Passenger.Core.csproj"
+    },
+    "Passenger.Infrastructure/1.0.0": {
+      "type": "project",
+      "path": "../Passenger.Infrastructure/Passenger.Infrastructure.csproj",
+      "msbuildProject": "../Passenger.Infrastructure/Passenger.Infrastructure.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.1": [
       "Microsoft.AspNetCore.App >= 2.1.1",
-      "Microsoft.NETCore.App >= 2.1.0"
+      "Microsoft.NETCore.App >= 2.1.0",
+      "Passenger.Infrastructure >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -11526,7 +11560,11 @@
       },
       "frameworks": {
         "netcoreapp2.1": {
-          "projectReferences": {}
+          "projectReferences": {
+            "/home/ukasz/Passenger/Passenger.Infrastructure/Passenger.Infrastructure.csproj": {
+              "projectPath": "/home/ukasz/Passenger/Passenger.Infrastructure/Passenger.Infrastructure.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

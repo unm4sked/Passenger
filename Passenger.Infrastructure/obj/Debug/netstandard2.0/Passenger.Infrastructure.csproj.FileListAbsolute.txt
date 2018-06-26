@@ -1,0 +1,12 @@
+/home/ukasz/Passenger/Passenger.Infrastructure/bin/Debug/netstandard2.0/Passenger.Infrastructure.deps.json
+/home/ukasz/Passenger/Passenger.Infrastructure/bin/Debug/netstandard2.0/Passenger.Infrastructure.dll
+/home/ukasz/Passenger/Passenger.Infrastructure/bin/Debug/netstandard2.0/Passenger.Infrastructure.pdb
+/home/ukasz/Passenger/Passenger.Infrastructure/bin/Debug/netstandard2.0/Passenger.Core.dll
+/home/ukasz/Passenger/Passenger.Infrastructure/bin/Debug/netstandard2.0/Passenger.Core.pdb
+/home/ukasz/Passenger/Passenger.Infrastructure/obj/Debug/netstandard2.0/Passenger.Infrastructure.csprojAssemblyReference.cache
+/home/ukasz/Passenger/Passenger.Infrastructure/obj/Debug/netstandard2.0/Passenger.Infrastructure.csproj.CoreCompileInputs.cache
+/home/ukasz/Passenger/Passenger.Infrastructure/obj/Debug/netstandard2.0/Passenger.Infrastructure.AssemblyInfoInputs.cache
+/home/ukasz/Passenger/Passenger.Infrastructure/obj/Debug/netstandard2.0/Passenger.Infrastructure.AssemblyInfo.cs
+/home/ukasz/Passenger/Passenger.Infrastructure/obj/Debug/netstandard2.0/Passenger.Infrastructure.csproj.CopyComplete
+/home/ukasz/Passenger/Passenger.Infrastructure/obj/Debug/netstandard2.0/Passenger.Infrastructure.dll
+/home/ukasz/Passenger/Passenger.Infrastructure/obj/Debug/netstandard2.0/Passenger.Infrastructure.pdb

@@ -2,6 +2,9 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp2.1</TargetFramework>
+    <AssemblyName>Passenger.Api</AssemblyName>
+    <PackageId>Passenger.Api</PackageId>
+  
   </PropertyGroup>
 
   <ItemGroup>
@@ -10,6 +13,7 @@
 
   <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.App" />
+    <ProjectReference Include="..\Passenger.Infrastructure\Passenger.Infrastructure.csproj" />
   </ItemGroup>
 
 </Project>

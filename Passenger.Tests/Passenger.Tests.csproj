@@ -2,6 +2,19 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <AssemblyName>Passenger.Tests</AssemblyName>
+    <PackageId>Passenger.Tests</PackageId>
   </PropertyGroup>
+  
+  <ItemGroup>
+   <ProjectReference Include="..\Passenger.Infrastructure\Passenger.Infrastructure.csproj" />
+   <ProjectReference Include="..\Passenger.Core\Passenger.Core.csproj" />
+  </ItemGroup>
+  
+  <ItemGroup>
+    <PackageReference Include="FluentAssertions" Version="5.4.1" />
+    <PackageReference Include="Moq" Version="4.8.3" />
+    <PackageReference Include="NUnit" Version="3.10.1" />
+  </ItemGroup>
 
 </Project>
